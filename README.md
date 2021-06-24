@@ -1,3 +1,3 @@
 # yugi-startpage
 Yugi nord themed startpage
-[Imgur](https://imgur.com/obp5UvZ)
+<img src="https://imgur.com/obp5UvZ">
